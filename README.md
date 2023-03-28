@@ -1,0 +1,2 @@
+# Amazon-Autosearch-Autoemail
+ Python script that uses the Selenium library to open Chrome, navigate to the Amazon Spain website, and search for a specific item. Once the search is complete, the script extracts information about some results, including their names, prices, and links. It then sends this information via email using the smtplib library. This script could be a useful starting point for anyone looking to automate their online shopping experience on Amazon Spain. 
